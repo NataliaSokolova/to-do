@@ -71,7 +71,7 @@ this.setState({
           <div className = "row">
             <div className = "col-10 mx-auto col-md-8 mt-4">
               <h3 className = "text-capitalize text-center">
-                todo input hoho
+                todo input 
 
               </h3>
                <TodoInput 
